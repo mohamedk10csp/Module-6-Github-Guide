@@ -1,7 +1,7 @@
 A beginners guide to Git and Github
 
 Overview:
-This is a project based tutorial to get started with code changes and project management by using Git and GitHub. It includes a crash course on git commands, branches, merging, pull requests, and collaboration.
+This guide explains how Git and GitHub help developers track changes and work together on projects.
 
 Topics:
 1. Git and Github basics

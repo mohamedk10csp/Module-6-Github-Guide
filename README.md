@@ -1,7 +1,7 @@
 A beginners guide to Git and Github
 
 Overview:
-This guide explains how Git and GitHub help developers track changes and work together on projects.
+This project teaches beginners how to use Git and GitHub to manage code, save different versions, and collaborate with others.
 
 Topics:
 1. Git and Github basics
